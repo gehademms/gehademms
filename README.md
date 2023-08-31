@@ -10,12 +10,8 @@
   </a>
   <a href="https://www.linkedin.com/in/gehad-emad-173361256">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
- 
   </a>
- <a href="https://github.com/Mido191020/Leet_Code">
-    <img alt="solve leet code problems" src="https://raw.githubusercontent.com/johnnymillergh/MaterialLibrary/master/iLeetCode%20Assets/iLeetCode%20Feature%20Graphic.png" />
-</a>
-
+ 
   <a href="https://github.com/Mido191020/">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
@@ -29,7 +25,7 @@
   <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-0081CB?style=flat-square&logo=code&logoColor=white" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+I'm+Ahmed+Tarek!;I'm+a+software+engineer;Welcome+to+my+profile!" style="color:mix" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+I'm+Gehad+Emad;I'm+a+Telecommunicatios+engineer;Welcome+to+my+profile!" style="color:mix" />
 </p>
 
 
