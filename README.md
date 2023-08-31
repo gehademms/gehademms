@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+I'm+Gehad+Emad;I'm+a+Eelectronics+Communication+Engineer;Welcome+To+My+Profile!" style="color:mix" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+I'm+Gehad+Emad;Eelectronics+Communication+Engineer;Welcome+To+My+Profile!" style="color:mix" />
 </p>
 
 
