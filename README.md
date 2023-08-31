@@ -4,6 +4,14 @@
 </p>
 <br/>
 <p align="center">
+  <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" height="240">
+
+
+<h3> About Me</h3> 
+<h4> A highly motivated DevOps engineer with a passion to work and learning to gain more knowledge and experience to start my career as a DevOps engineer to achieve success for me and my organization. </h4>
+
+<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/black.gif" width= 25% height=95px>
+
   📫 Connect with me: 
   <a href="gogoemms@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
