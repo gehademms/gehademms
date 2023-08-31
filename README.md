@@ -2,13 +2,11 @@
 
 <h3> About Me</h3> 
 <h4> I am Gehad Emad, an engineering student at Helwan University, Department of Communications. I always aspire to success, develop myself, and increase my experiences. I love teamwork, thinking, challenges, doing projects, and entering competitions. My life’s wish is to build a robot. </h4></p>
-
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
   
-
   📫 Connect with me: 
-  
+
   <a href="gogoemms@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
