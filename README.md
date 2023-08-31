@@ -17,12 +17,6 @@
   </a>
 </p>
 
-  🛠 Tech Stack:
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img alt="Object Oriented Programming" src="https://img.shields.io/badge/Object%20Oriented%20Programming-EE4C2C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img alt="Data Structures" src="https://img.shields.io/badge/Data%20Structures-FF6B6B?style=flat-square&logo=treehouse&logoColor=white" />
-  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-0081CB?style=flat-square&logo=code&logoColor=white" />
-</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+I'm+Gehad+Emad;I'm+a+Telecommunicatios+engineer;Welcome+to+my+profile!" style="color:mix" />
 </p>
